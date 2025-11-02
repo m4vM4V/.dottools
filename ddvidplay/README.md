@@ -8,4 +8,6 @@ There are four versions of this tool.
 Operating system: Windows 10 required
 Program: Visual Studio 2022
 
+*Note: This demotool allows watching High Quality resolution movies.*
+
 (c) 2025 .dot / filippp
